@@ -1,2 +1,2 @@
 # aare-iworid
-Sample notebook showing usage of aare
+Sample notebook showing interpolation with aare
